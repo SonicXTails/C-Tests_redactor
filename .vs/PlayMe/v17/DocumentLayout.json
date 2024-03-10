@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PlayMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|e:\\playme\\playme\\test_done.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|solutionrelative:playme\\test_done.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|e:\\playme\\playme\\test_done.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|solutionrelative:playme\\test_done.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|e:\\playme\\playme\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3B0A5-D24D-4EB8-A2B7-DDB45A073197}|PlayMe\\PlayMe.csproj|solutionrelative:playme\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 449,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_done.xaml.cs",
+              "DocumentMoniker": "E:\\PlayMe\\PlayMe\\test_done.xaml.cs",
+              "RelativeDocumentMoniker": "PlayMe\\test_done.xaml.cs",
+              "ToolTip": "E:\\PlayMe\\PlayMe\\test_done.xaml.cs",
+              "RelativeToolTip": "PlayMe\\test_done.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwGcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T21:10:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_done.xaml",
+              "DocumentMoniker": "E:\\PlayMe\\PlayMe\\test_done.xaml",
+              "RelativeDocumentMoniker": "PlayMe\\test_done.xaml",
+              "ToolTip": "E:\\PlayMe\\PlayMe\\test_done.xaml",
+              "RelativeToolTip": "PlayMe\\test_done.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T21:10:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "E:\\PlayMe\\PlayMe\\Questions.cs",
+              "RelativeDocumentMoniker": "PlayMe\\Questions.cs",
+              "ToolTip": "E:\\PlayMe\\PlayMe\\Questions.cs",
+              "RelativeToolTip": "PlayMe\\Questions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:53:01.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
